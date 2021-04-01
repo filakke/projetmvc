@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\libs",
+    "\\src",
+    "\\src\\controller",
+    "\\src\\entities",
+    "\\src\\view"
+  ],
+  "SelectedNode": "\\src\\entities\\User.php",
+  "PreviewInSolutionExplorer": false
+}
